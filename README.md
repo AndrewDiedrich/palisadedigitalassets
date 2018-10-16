@@ -1,4 +1,4 @@
-Palisade Digital Assets
+Palisade Digital Assets: Investment, Education and Retail integration Consulting for Cryptocurrencies
 
 git clone url 
 
