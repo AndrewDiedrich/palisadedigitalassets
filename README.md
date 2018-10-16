@@ -1,4 +1,9 @@
-# palisadedigitalassets
+Palisade Digital Assets
 
-Heroku app:
+git clone url 
 
+npm install 
+
+npm start
+
+https://ibb.co/j0h1kf
